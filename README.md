@@ -1,3 +1,6 @@
-Este notebook é destinado a demonstrar como determinar a velocidade de um ventilador com base na temperatura e da umidade na localidade do computador que processa os scripts.
+Este notebook é destinado à demonstração da determinação da velocidade de um ventilador baseado na temperatura e umidade na localidade do computador.
 
-O sistema obtém a temperatura e a umidade a partir da longitude e da latitude do computador. Com isso, através da Lógica Fuzzy, a velocidade do ventilador será definida para o clima obtido na internet.¶
+O sistema obtém a temperatura e a umidade a partir da longitude e da latitude do computador. Com isso, através da Lógica Fuzzy, a velocidade do ventilador será inferida para o clima obtido na internet.
+
+Método: Lógica Fuzzy.
+Linguagem: Python
